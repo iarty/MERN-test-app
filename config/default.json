@@ -1,0 +1,6 @@
+{
+  "port": "5000",
+  "jwtSecret": "super secret string",
+  "mongoUri": "mongodb+srv://arty:1221@cluster0-zcgfi.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
